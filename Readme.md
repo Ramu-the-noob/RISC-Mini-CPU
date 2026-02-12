@@ -1,6 +1,5 @@
+RISC-V Multi-Function Mini CPU 
 
-Project Title: RISC-V Multi-Function Mini CPU 
-Description
 
 This project implements a multi-functional program in RISC-V Assembly designed to run on the Ripes simulator. It features a "Jumper" dispatch system that allows the user to switch between three modes:
 
