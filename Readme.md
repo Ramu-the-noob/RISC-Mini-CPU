@@ -14,7 +14,7 @@ This project implements a multi-functional program in RISC-V Assembly designed t
 Features
 
     Modular Architecture: Uses a dispatch table logic to jump to specific code blocks based on a control variable.
-    *use functions to seperate parts
+    *used functions to seperate parts
 
     System Calls: Implements ecall for string labels, integer output, and character-based formatting (newlines).
     *used function calls
